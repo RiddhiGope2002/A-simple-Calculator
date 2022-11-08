@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  font-family: 'Fira Sans', sans-serif;
+}
+.bg-red{
+  background: red;
+}
+
+.button{
+  padding:20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+}
+
+.row{
+  padding: 8px 0;
+}
+
+.row input{
+     padding: 10px 5px;
+    /* margin: 0 -14px; */
+    border: 2px solid black;
+    border-radius: 7px;
+    font-size: 20px;
+}
+
